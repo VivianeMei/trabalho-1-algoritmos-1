@@ -14,7 +14,7 @@ O programa deve ter uma interface amigável com reprocessamento.
 
 ## 💻 Tecnologias Utilizadas
 - **Linguagem:** C
-- **Bibliotecas:** 'stdio.h', 'stdlib.h', 'locale.h' e 'math.h'
+- **Bibliotecas:** `stdio.h`, `stdlib.h`, `locale.h` e `math.h`
 
 ## ⚙️ Funcionalidades 
 - Entrada de ângulos em graus ou radianos;
